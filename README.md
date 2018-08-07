@@ -1,7 +1,7 @@
 # Expresso
 
 ## Before Testing
-Please type "npm install", "npm install expresso", "npm install body-parser", "npm install morgan", and "npm install sqlite3" to bash sheel
+Please type "npm install", "npm install expresso", "npm install body-parser", "npm install morgan", and "npm install sqlite3" to bash shell
 Or unzip the folder node-modules.
 
 
