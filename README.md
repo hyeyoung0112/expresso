@@ -1,5 +1,10 @@
 # Expresso
 
+## Before Testing
+Please type "npm install", "npm install expresso", "npm install body-parser", "npm install morgan", and "npm install sqlite3" to bash sheel
+Or unzip the folder node-modules.
+
+
 ## Project Overview
 
 In this capstone project, you will build all of the routing and database logic for an internal tool for a coffee shop called Expresso.
